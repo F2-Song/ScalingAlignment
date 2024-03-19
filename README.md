@@ -33,7 +33,7 @@ sh train_hh_pro_1b3.sh [model_path] [exp_name] [data_path] [ranking_len] [seed]
 ```
 The parameters are explained as follows:
 - model_path: the path of the pre-trained model
-- exp_name: an DIY name for the experiment
+- exp_name: a DIY name for the experiment
 - data_path: the path of one subset
 - ranking_len: the length of ranking, e.g., 2, 3 or 4
 - seed: the random seed, e.g., 42, 43, 44
